@@ -69,10 +69,10 @@ The dataset includes the following columns:
 ## 📂 Folder Structure
 netflix-sql-analysis/
 │
-├── queries.sql # All SQL queries used in the analysis
-├── netflix_schema.sql # Table creation script
-├── dataset.csv # Original Netflix dataset
-├── README.md # Project documentation
+├── queries.sql           # All SQL queries used in the analysis
+├── netflix_schema.sql    # Table creation script
+├── dataset.csv           # Original Netflix dataset
+├── README.md             # Project documentation
 
 
 ---
